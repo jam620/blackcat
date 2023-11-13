@@ -1,0 +1,5 @@
+# exluir todo menos el script final
+api-blackcat.txt
+crawler-tor-blackcat.py
+crawler-tor-blackcat-chatgpt.py
+crawler-tor-blackcat-chatgpt-final.py
